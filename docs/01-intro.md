@@ -1,0 +1,47 @@
+# Python Programming Language
+- What can a python program do?
+    - **connect to database systems**.
+    - **read and modify files**.
+    - **analyze big data**.
+    - **perform complex mathematics**.
+- How is its code executed?
+    - It runs on an **interpreter system**.
+- How is it written?
+    - I can be written:
+        - in a **procedural way**,
+        - in an **object-oriented way** or
+        - in a **functional way**.
+- Python is used for:
+    - **Web and Internet development**:
+        - **Django** (framework)
+        - **Pyramid** (framework)
+        - **Flask** (micro-framework)
+        - **Bottle** (micro-framework)
+        - **Plone** (advanced content management systems) 
+        - **Django CMS** (advanced content management systems)
+    - **Scientific and numeric computing**:
+        - **SciPy** (a collection of packages for mathematics, science, and engineering)
+        - **Pandas** (a data analysis and modeling library)
+        - **IPython** (a powerful interactive shell that features easy editing and recording of a work session, and supports visualizations and parallel computing)
+        - Obs.: The **Software Carpentry Course** teaches basic skills for scientific computing, running bootcamps and providing open-access teaching materials.
+    - **Desktop GUIs**:
+        - **Tk** (GUI library)
+        - **wxWidgets** (toolkit)
+        - **Kivy** (toolkit for writing multitouch applications)
+        - **Qt** (toolkit used via pyqt or pyside)
+        - **GTK+** (Microsoft Foundation Classes through the win32 extensions)
+    - **Software Development**:
+        - **build control**
+        - **build management**
+        - **build testing**
+        - e.g.: 
+            - **Scons** (build control.)
+            - **Buildbot** (automated continuous compilation and testing)
+            - **Apache Gump** (automated continuous compilation and testing)
+            - **Roundup** (bug tracking and project management)
+            - **Trac** (bug tracking and project management)
+    - **Business applications**:
+        - **ERP** and **e-commerce systems**
+        - e.g.:
+            - **Odoo** (an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications)
+            - **Tryton** (a three-tier high-level general purpose application platform)
